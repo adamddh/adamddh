@@ -20,13 +20,9 @@ I'm a data science student who is passionate about data visualizations, data eth
 
 ### 💻 Currently Working On:
 
-- The [January Series](https://calvin.edu/january-series/): Running front of house for this series of free liberal arts lectures broadcast live across the planet to 4,000 people. 
-
 - A [visualizaion](https://github.com/adamddh/MI-COVID-Viz/blob/master/MiCorona.md) on goverment supplied COVID-19 data for the state of michigan. This is a good practice in both python and R for web-scraping, data cleaning, and visualization. 
 
 - Quick python programming, such as web-scraping, maintenance scripts, and bots. 
-
-- Gearing up for the 2021 spring semester. 
 
 ### 📚 Currently Learning More About:
 
@@ -37,6 +33,8 @@ I'm a data science student who is passionate about data visualizations, data eth
     - Conjugate prior distributions are studied, but computational methods are emphasized and developed in the context of practical data analysis methods.
 - Computer System Admin:
     - A holistic introduction to the support of organizational information technology infrastructure. 
+- SQL:
+    - Going over [codecademy](https://www.codecademy.com/learn/learn-sql) tutorials again to regain familiarity with this language. 
 
 ### 💬 Ask Me About:
 

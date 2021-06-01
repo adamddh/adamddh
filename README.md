@@ -17,6 +17,7 @@ I'm a data science student who is passionate about data visualizations, data eth
 ### 💼 Where I Currently Work 💼
 
 [Calvin University](https://calvin.edu): Audio Engineer
+
 [Schneider](https://schneider.com/): Advanced Analytics Intern
 
 ### 💻 Currently Working On:

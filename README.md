@@ -12,15 +12,17 @@
   
 </br>
 <p>
-I'm a data science student who is passionate about data visualizations, data ethics, as well as data in/around electrical systems. I also have a deep passion for live audio and live event production technology. The repositories here are mostly me playing around with either python or R code for my own personal learning. When I'm not coding, you can find me discing, researching home theater, or on a ride on my penny board.</p>
+I'm a data science student who is passionate about data visualizations, data ethics, as well as data in/around electrical systems. I also have a deep passion for live audio and live event production technology. The repositories here are mostly me playing around with either python or R code for my own personal learning. When I'm not coding, you can find me discing, researching home theater, or riding my penny board.</p>
 
 ### 💼 Where I Currently Work 💼
 
 [Calvin University](https://calvin.edu): Audio Engineer
+[Schneider](https://schneider.com/): Advanced Analytics Intern
 
 ### 💻 Currently Working On:
 
 - A [visualizaion](https://github.com/adamddh/MI-COVID-Viz/blob/master/MiCorona.md) on goverment supplied COVID-19 data for the state of michigan. This is a good practice in both python and R for web-scraping, data cleaning, and visualization. 
+- Internship @ Schneider National.
 
 - Quick python programming, such as web-scraping, maintenance scripts, and bots. 
 

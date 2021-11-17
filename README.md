@@ -22,7 +22,7 @@ I'm a data science student who is passionate about data visualizations, data eth
 
 ### 💻 Currently Working On:
 
-- A [visualizaion](https://github.com/adamddh/MI-COVID-Viz/blob/master/MiCorona.md) on goverment supplied COVID-19 data for the state of michigan. This is a good practice in both python and R for web-scraping, data cleaning, and visualization. 
+- A [visualization](https://github.com/adamddh/MI-COVID-Viz/blob/master/MiCorona.md) on goverment supplied COVID-19 data for the state of michigan. This is a good practice in both python and R for web-scraping, data cleaning, and visualization. 
 - Internship @ Schneider National.
 
 - Quick python programming, such as web-scraping, maintenance scripts, and bots. 

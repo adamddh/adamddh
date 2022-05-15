@@ -11,9 +11,9 @@
   
 </br>
 <p>
-I'm a data science student who is passionate about data visualizations, data ethics, as well as data in/around electrical systems. The repositories here are mostly me playing around with either python or R code for my own personal learning. When I'm not coding, you can find me discing, researching home theater, or riding my penny board around Calvin University's 390 acres.</p>
+I'm a data analyst who is passionate about data visualizations, data ethics, as well as data in/around electrical systems. The repositories here are mostly me playing around with either python or R code for my own personal learning. When I'm not coding, you can find me discing, researching home theater, or riding my penny board around Calvin University's 390 acres.</p>
 
-### 💼 Past (And Future!) Work 💼
+### 💼 Past Work 💼
 
 [Schneider Natioinal](https://schneider.com/): Advanced Analytics Intern (Summer 2021)
  - Diagnosed data reporting errors.
@@ -25,6 +25,10 @@ I'm a data science student who is passionate about data visualizations, data eth
 
 [Calvin University](https://calvin.edu): Audio Engineer
 
+[WOOD TV 8](https://www.woodtv.com/): Production Assistant
+
+[Schneider National](https://schneider.com/): Advanced Analyst
+
 ### 💻 Currently Working On:
 
 - A [visualization](https://github.com/adamddh/MI-COVID-Viz/blob/master/MiCorona.md) on goverment supplied COVID-19 data for the state of michigan. This is a good practice in both python and R for web-scraping, data cleaning, and visualization. 
@@ -33,8 +37,8 @@ I'm a data science student who is passionate about data visualizations, data eth
 
 ### 📚 Currently Learning More About:
 
-- Artifical Intelligence (Course @ [Calvin University](https://catalog.calvin.edu/preview_course.php?catoid=18&coid=35644))
-- Applied Modeling and Visualization (Course @ [Calvin University](https://catalog.calvin.edu/preview_course.php?catoid=18&coid=36494))
+- Speeding up python (email me for good resources on this!)
+- Python backend
 
 ### 📚 Academic Experience:
 
@@ -45,21 +49,24 @@ I'm a data science student who is passionate about data visualizations, data eth
 - Computational Bayesian Statistics
 - Database Management Systems
 - High Performance Computing
+- Artifical Intelligence
+- Applied Modeling and Visualization
 
 ### 💻 Technical Skills
 
-- Python -------------- Advanced
-- R -------------------- Advanced
-- SQL ----------------- Advanced
-- Data Wrangling ---- Advanced
-- Data Analysis ------- Advanced
-- C++ ----------------- Advanced
-- Git/Github ---------- Intermediate
-- Microsoft Access --- Intermediate
-- C# ------------------- Intermediate	
-
+|                 	|             	|
+|------------------	|--------------	|
+| Python           	| Advanced     	|
+| R                	| Advanced     	|
+| SQL              	| Advanced     	|
+| Data Wrangling   	| Advanced     	|
+| Data Analysis    	| Advanced     	|
+| C++              	| Advanced     	|
+| Git/Github       	| Intermediate 	|
+| Microsoft Access 	| Intermediate 	|
+| C#               	| Intermediate 	|
 
 ### 💬 Ask Me About:
 
 - Python solutions for everyday problems, especially "busy work" problems. 
-- High performance computing, or any of my other current or previous classses.
+- High performance computing, or any of my other previous classses.

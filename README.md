@@ -11,7 +11,7 @@
   
 </br>
 <p>
-I'm a data analyst who is passionate about data visualizations, data ethics, as well as data in/around electrical systems. The repositories here are mostly me playing around with either python or R code for my own personal learning. When I'm not coding, you can find me discing, researching home theater, or riding my penny board around Calvin University's 390 acres.</p>
+I'm a data engineer who is passionate about data visualizations, data ethics, as well as data in/around electrical systems. The repositories here are mostly me playing around with either python or R code for my own personal learning. When I'm not coding, you can find me discing, researching home theater, or riding my penny board around Calvin University's 390 acres.</p>
 
 ### 💼 Past Work 💼
 
@@ -23,11 +23,11 @@ I'm a data analyst who is passionate about data visualizations, data ethics, as 
 
 ### 💼 Where I Currently Work 💼
 
-[Calvin University](https://calvin.edu): Audio Engineer
+[Schneider National](https://schneider.com/): Data Science Software Engineer
 
 [WOOD TV 8](https://www.woodtv.com/): Production Assistant
 
-[Schneider National](https://schneider.com/): Advanced Analyst
+[Calvin University](https://calvin.edu): Audio Engineer
 
 ### 💻 Currently Working On:
 

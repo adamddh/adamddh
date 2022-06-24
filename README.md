@@ -25,9 +25,9 @@ I'm a data engineer who is passionate about data visualizations, data ethics, as
 
 [Schneider National](https://schneider.com/): Data Science Software Engineer
 
-- Implement software solutions to automate data science models
-- Analyze business decisions to be optimized with data science techniques
-- Develop software libraries to aid analytic efforts
+- Implement software solutions to automate data science models.
+- Analyze business decisions to be optimized with data science techniques.
+- Develop software libraries to aid analytic efforts.
 
 [WOOD TV 8](https://www.woodtv.com/): Production Assistant
 

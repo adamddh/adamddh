@@ -63,12 +63,11 @@ I'm a data engineer who is passionate about data visualizations, data ethics, as
 | Python           	| Advanced     	|
 | R                	| Advanced     	|
 | SQL              	| Advanced     	|
-| Data Wrangling   	| Advanced     	|
-| Data Analysis    	| Advanced     	|
-| C++              	| Advanced     	|
-| Git/Github       	| Intermediate 	|
-| Microsoft Access 	| Intermediate 	|
-| C#               	| Intermediate 	|
+| AI/ML            	| Advanced     	|
+| Git/Github       	| Advanced     	|
+| Unix             	| Advanced     	|
+| Tableau          	| Intermediate 	|
+| C++              	| Intermediate 	|
 
 ### 💬 Ask Me About:
 

@@ -11,7 +11,7 @@
   
 </br>
 <p>
-I'm a data engineer who is passionate about data visualizations, data ethics, as well as data in/around electrical systems. The repositories here are mostly me playing around with either python or R code for my own personal learning. When I'm not coding, you can find me discing, researching home theater, or riding my penny board around Calvin University's 390 acres.</p>
+I'm a software developer who is passionate about data visualizations, data ethics, as well as data in/around electrical systems. The repositories here are mostly me playing around with either python or R code for my own personal learning. When I'm not coding, you can find me discing, researching home theater, or riding my penny board around Calvin University's 390 acres.</p>
 
 ### 💼 Past Work 💼
 
@@ -21,13 +21,17 @@ I'm a data engineer who is passionate about data visualizations, data ethics, as
  - Built dashboard showcasing internal employee data.
  - Collaborated with team members on rapid python development.
 
-### 💼 Where I Currently Work 💼
-
-[Schneider National](https://schneider.com/): Data Science Software Engineer
+ [Schneider National](https://schneider.com/): Data Science Software Engineer (2022)
 
 - Implement software solutions to automate data science models.
 - Analyze business decisions to be optimized with data science techniques.
 - Develop software libraries to aid analytic efforts.
+
+### 💼 Where I Currently Work 💼
+
+[Tekton](Tekton.com): Software Developer - Internal Systems
+
+- Improve backend operation of key internal systems
 
 [WOOD TV 8](https://www.woodtv.com/): Production Assistant
 
@@ -35,14 +39,12 @@ I'm a data engineer who is passionate about data visualizations, data ethics, as
 
 ### 💻 Currently Working On:
 
-- A [visualization](https://github.com/adamddh/MI-COVID-Viz/blob/master/MiCorona.md) on goverment supplied COVID-19 data for the state of michigan. This is a good practice in both python and R for web-scraping, data cleaning, and visualization. 
-
 - Quick python programming, such as web-scraping, maintenance scripts, and bots. 
 
 ### 📚 Currently Learning More About:
 
 - Speeding up python (email me for good resources on this!)
-- Python backend
+- Javascript & ES6
 
 ### 📚 Academic Experience:
 
@@ -66,6 +68,7 @@ I'm a data engineer who is passionate about data visualizations, data ethics, as
 | AI/ML            	| Advanced     	|
 | Git/Github       	| Advanced     	|
 | Unix             	| Advanced     	|
+|Javascript.        | Intermediate  |
 | Tableau          	| Intermediate 	|
 | C++              	| Intermediate 	|
 

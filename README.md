@@ -68,7 +68,7 @@ I'm a software developer who is passionate about data visualizations, data ethic
 | AI/ML            	| Advanced     	|
 | Git/Github       	| Advanced     	|
 | Unix             	| Advanced     	|
-|Javascript.        | Intermediate  |
+|Javascript         | Intermediate  |
 | Tableau          	| Intermediate 	|
 | C++              	| Intermediate 	|
 

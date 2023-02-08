@@ -19,8 +19,6 @@ I'm a software developer who is passionate about data visualizations, data ethic
 
 - Improve backend operation of key internal systems
 
-[WOOD TV 8](https://www.woodtv.com/): Production Assistant
-
 [Calvin University](https://calvin.edu): Audio Engineer
 
 ### 💼 Past Work 💼

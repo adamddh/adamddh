@@ -1,7 +1,7 @@
  # Hi, I'm Adam!
 
  <!-- LinkedIn Contact -->
-  <a href="https://www.linkedin.com/in/adam-denhaan-404589204/" target="_blank">
+  <a href="https://www.linkedin.com/in/adam-denhaan/" target="_blank">
     <img src="https://img.shields.io/badge/-Adam%20denhaan-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
 <!-- Email -->
